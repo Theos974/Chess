@@ -1,0 +1,2 @@
+# Chess
+Haskell chess program
